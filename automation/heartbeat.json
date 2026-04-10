@@ -1,0 +1,23 @@
+{
+  "status": "ok",
+  "timestamp": "2024-10-27T10:30:00Z",
+  "appVersion": "1.2.3",
+  "buildNumber": "456",
+  "platform": "iOS",
+  "deviceName": "iPhone 13",
+  "osVersion": "16.0",
+  "networkConnectivity": "wifi",
+  "batteryLevel": 0.85,
+  "memoryUsage": {
+    "total": 4096, // Total memory in MB
+    "used": 2048  // Used memory in MB
+  },
+  "cpuUsage": 0.20, // CPU usage percentage
+  "diskSpace": {
+    "total": 128, // Total disk space in GB
+    "free": 64    // Free disk space in GB
+  },
+  "activeScreen": "HomeScreen",
+  "eventQueueSize": 10,
+  "pendingRequests": 0
+}
